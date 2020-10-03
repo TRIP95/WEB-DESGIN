@@ -1,0 +1,97 @@
+.circle
+{
+background-color: #fcba03;
+border-radius: 50%;
+text-decoration-color: white;
+    
+}
+.text
+{
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+.images
+{
+    padding: 10px;
+    height: 55px ;
+    width: 55px;  
+}
+#imgg
+{
+    height: 100px ;
+    width: 100px;
+    float: left;
+}
+
+.im
+{  margin-top:60px ;
+    margin-right: 100px;
+    height: 75px ;
+    width: 75px;
+    float: right;
+    margin-left: 80px;
+}
+#imm
+{
+
+    margin-right: 100px;
+    height: 75px ;
+    width: 75px;
+    float: left;
+    
+}
+.our-clients
+{
+    z-index: 1;align-self:flex-start;position: relative;bottom: 200px;
+}
+.socials
+{
+   
+    margin-right: 15px;
+    height: 55px ;
+    width: 55px;
+    float: right; 
+}
+
+.colors
+{
+    text-decoration-color: darkgrey;
+    
+}
+img
+{  
+    float: left;
+    
+}
+#stretch
+{
+    width: 100%;
+    margin-top: 40px;
+}
+
+div
+{
+ max-width: 100%;   
+}
+
+
+/* Bootstrap css*/
+.navbar-nav > .active > a { 
+    color: grey;
+}
+
+.navbar-nav > .active a{
+  color : dimgrey;
+}
+.nav-item > a:hover {
+    color : dimgrey;
+}
+/*ul li{
+  list-style:none;
+  margin-left: -25px;
+} */
+.navbar-default .navbar-nav > .active > a:focus {
+color: dimgrey; /* <—– change your color here*/
+background-color: transparent;
+}
